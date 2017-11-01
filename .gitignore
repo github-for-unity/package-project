@@ -1,0 +1,7 @@
+*.pdb
+*.pdb.meta
+*.mdb
+*.xml
+*.local.json
+
+Library/
